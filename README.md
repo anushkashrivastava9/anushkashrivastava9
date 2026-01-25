@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-i am currently a undergrad CSE-AIML and i have a keen interest in python and backend development using fastapi , data science
+AI & ML undergraduate | Python • Backend • Data Science
+Building data-driven systems, learning by shipping code, and optimizing for clarity, logic, and scale.
+Exploring AI systems, robotics, and backend engineering. Open to internships and real-world challenges
 
 
 ## 🌐 Socials:
