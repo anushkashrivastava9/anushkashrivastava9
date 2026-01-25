@@ -2,7 +2,7 @@
 # 💫 About Me:
 AI & ML undergraduate | Python • Backend • Data Science
 Building data-driven systems, learning by shipping code, and optimizing for clarity, logic, and scale.
-Exploring AI systems, robotics, and backend engineering. Open to internships and real-world challenges
+Exploring AI systems, robotics, and backend engineering. Open to internships and real-world challenges.
 
 
 ## 🌐 Socials:
